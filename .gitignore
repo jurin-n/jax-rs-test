@@ -1,0 +1,14 @@
+# eclipse
+.classpath
+.project
+.settings
+/bin/
+
+.DS_Store
+.project
+target/
+.checkstyle
+
+# derby
+db1
+derby.log
